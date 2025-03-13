@@ -20,7 +20,7 @@ Ensure you have Python 3 installed.
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/tic-tac-toe.git
+git clone https://github.com/bishal189/tic-tac-toe
 cd tic-tac-toe
 ```
 
